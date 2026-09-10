@@ -427,7 +427,7 @@ class PartnerDashboard extends StatelessWidget {
           ),
         ],
       ),
-      bottomNavigationBar: const NavigationBar(
+      bottomNavigationBar: NavigationBar(
         selectedIndex: 0,
         destinations: [
           NavigationDestination(
